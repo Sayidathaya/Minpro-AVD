@@ -1,1 +1,3 @@
-# Minpro-AVD-1
+# Minpro AVD
+## Sayid Rafi A'thaya
+## NIM: 2409116036
